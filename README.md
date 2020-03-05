@@ -1,0 +1,2 @@
+# SCF
+ Implemented a Machine Learning model to decide whether the consumer is eligible to take the loan or not using SCF dataset. Applied feature selection techniques like Chi-square test, Random Forest and Boruta algorithms for effective modelling and then trained the new obtained limited features with machine learning algorithms like Decision Tree, Random Forest, XG Boost and Logistic Regression. 
